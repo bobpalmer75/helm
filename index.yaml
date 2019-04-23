@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  bo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-23T14:55:58.510596229+02:00
+    description: A Helm chart for Nomad BO
+    digest: e855447a0cac514e6dc0bfc03be5f30b58ddd8176498778838b63162feddf012
+    name: bo
+    urls:
+    - bo-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-23T14:55:58.510336523+02:00
